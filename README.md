@@ -1,1 +1,1 @@
-# simon-game-angela
+# simon-game-challenge
